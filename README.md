@@ -20,7 +20,7 @@
 - Go to [Bruce-Main](https://github.com/pr3y/Bruce/tree/main) and download the code
 - Replace the updated src file in the original [Bruce-Main](https://github.com/pr3y/Bruce/tree/main) folder
 - Build the apliaction
-- Command to build it -> `pio run -e lilygo-t-embed-cc1101 -t upload --upload-port ((Your COM port)CHANGE ME!)`
+- Command to build it -> `pio run -e lilygo-t-embed-cc1101 -t upload --upload-port (Your COM port)`
 - |_ for example -> `pio run -e lilygo-t-embed-cc1101 -t upload --upload-port COM4`
 
 📦 Based On:
