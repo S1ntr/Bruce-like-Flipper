@@ -3,7 +3,7 @@ This repository contains a modified version of the Bruce firmware, where the def
 
 ❗ This version of Bruce-Firmware is maded only for LilyGo T-Embed's ❗
 
-🔧 What's Modified:
+🔧 What's Modified: \n
 Custom IR Reading
 Custom TV-B-GONE theme
 Custom RFID reading animation's
