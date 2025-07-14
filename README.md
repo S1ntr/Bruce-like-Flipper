@@ -22,6 +22,7 @@
 - Build the apliaction
 - Command to build it -> `pio run -e lilygo-t-embed-cc1101 -t upload --upload-port (Your COM port)`
 - |_ for example -> `pio run -e lilygo-t-embed-cc1101 -t upload --upload-port COM4`
+- For that you will need PlatformIO VsCode extension!
 
 📦 Based On:
 - Original Bruce firmware: [Bruce-Main](https://github.com/pr3y/Bruce/tree/main)
