@@ -3,12 +3,12 @@ This repository contains a modified version of the Bruce firmware, where the def
 
 ❗ This version of Bruce-Firmware is maded only for LilyGo T-Embed's ❗
 
-🔧 What's Modified: \n
-Custom IR Reading
-Custom TV-B-GONE theme
-Custom RFID reading animation's
+🔧 What's Modified:
+- Custom IR Reading
+- Custom TV-B-GONE theme
+- Custom RFID reading animation's
 
 📦 Based On:
-Original Bruce firmware: [link to original project]
+- Original Bruce firmware: [Bruce-Main](https://github.com/pr3y/Bruce/tree/main)
 
 ⚠️ This firmware is intended for educational purposes only. The author is not responsible for any misuse or illegal use.
